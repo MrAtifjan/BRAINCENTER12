@@ -20,7 +20,7 @@
 
 ## git clone https://github.com/MrAtifjan/BRAINCENTER12.git
 
-## cd Hacker
+## cd BRAINCENTER12
 
 ## python2 Hacker.py
 
